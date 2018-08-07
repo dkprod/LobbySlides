@@ -1,0 +1,8 @@
+.full-screen {
+  background-size: contain; /* cover*/
+  background-position: center;
+  background-repeat: no-repeat;
+}
+body {
+  background-color: #000 !important;
+}
